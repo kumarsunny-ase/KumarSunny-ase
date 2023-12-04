@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Sunny</h1>
-<h3 align="center">I am passionate about coding and building solutions for the future</h3>
+<h3 align="center">Full Stack Software Developer</h3>
 
-<img align=“right” alt=“coding” width=“400” src="![image](https://github.com/kumarsunny1348/KumarSunny1348/assets/63996830/963ca6bd-c760-4658-a4ab-88acd2e8c46b)"
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarsunny1348" alt="kumarsunny1348" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsunny1348&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsunny1348" /> </p>
 
 - 🔭 I’m currently working on [Bosch Engineering GmbH](RaceCon)
 
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarsunny1348&show_icons=true&locale=en" alt="kumarsunny1348" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarsunny1348&" alt="kumarsunny1348" /></p>
+
