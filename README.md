@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bosch Engineering GmbH](https://www.bosch-motorsport.com/de/)
 
-- 🌱 I’m currently learning **Azure, AWS, Microservices**
+- 🌱 I’m currently learning **Azure DevOps, AWS, Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumarsunny-ase](https://github.com/kumarsunny-ase)
 
