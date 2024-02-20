@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumarsunny-ase](https://github.com/kumarsunny-ase)
 
-- 💬 Ask me about **C#, Python, .NET, MVC, Angular, React, Agile**
+- 💬 Ask me about **C#, Python, .NET, .NET Core, MVC, Angular, React, Agile**
 
 - 📫 How to reach me **kumarsunny1348@gmail.com**
 
