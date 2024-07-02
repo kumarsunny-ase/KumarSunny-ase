@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarsunny1348&label=Profile%20views&color=0e75b6&style=flat" alt="kumarsunny1348" /> </p>
 
-- 🔭 I’m currently working on [Bosch Engineering GmbH](https://www.bosch-motorsport.com/de/)
+- 🔭 I worked on [Bosch Engineering GmbH](https://www.bosch-motorsport.com/de/)
 
 - 🌱 I’m currently learning **Azure DevOps, AWS, Microservices**
 
