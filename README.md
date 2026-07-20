@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kumar Sunny</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">Full Stack Software Developer with AI Solutions</h3>
 
 <img align="right" alt="Coding"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
@@ -7,11 +7,11 @@
 
 - 🔭 I am currently working at [Bürkert Fluid Control Systems](https://www.buerkert.de/de)
 
-- 🌱 I’m currently learning **Azure DevOps, AWS, Microservices**
+- 🌱 I’m currently learning **Azure DevOps, AWS, Microservices, Generative AI, RAG, MCP (Model Context Protocol), and AI Agent Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kumarsunny-ase](https://github.com/kumarsunny-ase)
 
-- 💬 Ask me about **C#, Python, .NET, .NET Core, MVC, Angular, React, Agile**
+- 💬 Ask me about **C#, .NET 8/9, ASP.NET Core, Angular 18, React, SQL Server, Entity Framework Core, REST APIs, Microservices, Azure DevOps, RAG, MCP Servers and AI-powered Development**
 
 - 📫 How to reach me **kumarsunny1348@gmail.com**
 
